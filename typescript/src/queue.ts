@@ -1,6 +1,4 @@
-// 次回これのテスト書く
 // queueAからenqueueしてqueueBにdequeue
-//
 export const moveItemFromQueueToQueue = <T>(
   queueA: T[],
   queueB: T[],
